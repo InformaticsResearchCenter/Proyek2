@@ -1,1 +1,5 @@
-# Proyek2
+# SET UP PROYEK 2 GUYS
+
+
+# CARA INSTALASI GOLANG !!!!!!!!
+1
